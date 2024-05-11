@@ -22,7 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+-  Enable IIS in Windows WITH
+CGI and Common HTTP Features as well as IIS Managment Console
 - Item 2
 - Item 3
 - Item 4
